@@ -1,0 +1,21 @@
+{
+    "name": "neodev3/yii2-iframe-viewer",
+    "description": "This will render website in iframe and auto resize according to the content.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","iframe-viewer","iframe-wuto-resize","auto resize","iframe auto height","auto height","iframe height"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Neo",
+            "email": "neodeveloper3@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "neo\\iframeviewer\\": ""
+        }
+    }
+}
